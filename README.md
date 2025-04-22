@@ -1,7 +1,8 @@
 # 3-ее задание нельзя выполнить по данной причине:
-![Снимок экрана 2025-04-20 в 20.07.08.png](..%2F..%2F..%2Fscreenshots%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20%D0%B2%2020.07.08.png)
-![Снимок экрана 2025-04-20 в 20.04.17.png](..%2F..%2F..%2Fscreenshots%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20%D0%B2%2020.04.17.png)
-![Снимок экрана 2025-04-20 в 20.03.27.png](..%2F..%2F..%2Fscreenshots%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20%D0%B2%2020.03.27.png)
+<img width="1348" alt="Снимок экрана 2025-04-20 в 20 03 27" src="https://github.com/user-attachments/assets/fa18a455-44fc-4bf9-8038-0eebc178f878" />
+<img width="798" alt="Снимок экрана 2025-04-20 в 20 04 17" src="https://github.com/user-attachments/assets/c91694f2-94b0-4f01-8919-930718fda113" />
+<img width="385" alt="Снимок экрана 2025-04-20 в 20 07 08" src="https://github.com/user-attachments/assets/b842fdf2-c68d-405c-9967-41f581c92ea8" />
+
 
 - Ни в одном из облачных сервисов нельзя создать free-tier облака из-за того, что нужна либо иностранная карта, либо иностранный телефон
 
@@ -23,13 +24,16 @@ kubectl port-forward -n ingress-nginx service/ingress-nginx-controller 8080:80
 
 -Заходим на ```localhost:8080```
 -Видим результат:
-![Снимок экрана 2025-04-20 в 22.03.54.png](..%2F..%2F..%2Fscreenshots%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20%D0%B2%2022.03.54.png)
+<img width="428" alt="Снимок экрана 2025-04-20 в 22 03 54" src="https://github.com/user-attachments/assets/9bc90075-4c1f-48f2-88ab-4dd25cce64ff" />
+
 
 Дашборд графаны:
 -Параметры:
-![Снимок экрана 2025-04-20 в 21.51.00.png](..%2F..%2F..%2Fscreenshots%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20%D0%B2%2021.51.00.png)
+<img width="1225" alt="Снимок экрана 2025-04-20 в 21 51 00" src="https://github.com/user-attachments/assets/fc7e5940-8a72-4911-871b-4a04461e1707" />
+
 -Дашборд:
-![Снимок экрана 2025-04-20 в 21.50.49.png](..%2F..%2F..%2Fscreenshots%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-04-20%20%D0%B2%2021.50.49.png)
+<img width="1255" alt="Снимок экрана 2025-04-20 в 21 50 49" src="https://github.com/user-attachments/assets/26beea01-f0f2-4946-ba5a-898bfd059133" />
+
 
 
 
